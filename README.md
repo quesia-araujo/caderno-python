@@ -2,6 +2,14 @@
 
 Bem-vindo ao meu caderno de estudos em Python! Este repositório contém uma coleção dos meus estudos e projetos relacionados à linguagem de programação Python, como forma de documentação do meu processo de aprendizado.
 
+## Sumário
+
+- [Estrutura do Repositório](#estrutura-do-repositório)
+- [Tópicos de Estudo](#tópicos-de-estudo)
+- [Projetos em Destaque](#projetos-em-destaque)
+- [Recursos Adicionais](#recursos-adicionais)
+- [Contato](#contato)
+
 ## Estrutura do Repositório
 
 - `estudos/`: Neste diretório, você encontrará subdiretórios para diferentes tópicos de estudo em Python, incluindo conceitos, exemplos e exercícios.
