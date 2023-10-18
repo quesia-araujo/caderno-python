@@ -11,6 +11,10 @@ Aqui estão alguns recursos e links úteis relacionados aos meus estudos em Pyth
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [Real Python - Tutoriais e Artigos](https://realpython.com/)
 
+### Listas
+
+- [Google for Education](https://developers.google.com/edu/python/lists?hl=pt-br)
+
 ## Livros
 
 - [Python Crash Course](https://nostarch.com/pythoncrashcourse2e)

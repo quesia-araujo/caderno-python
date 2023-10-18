@@ -7,7 +7,7 @@ produtos = ['tv', 'celular', 'mouse', 'teclado', 'tablet']
 vendas = [1000, 1500, 350, 270, 900]
 
 '''
-lista[i] eh o valor de índice i da lista
+lista[i] eh o valor do item de índice i da lista
 '''
 
 print(produtos[1]) # imprimirá celular
